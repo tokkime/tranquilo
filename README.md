@@ -1,4 +1,4 @@
-# ![cara tranquilo](https://files.catbox.moe/9ppmij.png)
+<h1><img src="https://files.catbox.moe/9ppmij.png" alt="cara tranquilo" width="80"/>tranquilo</h1>
 
 um script pra deixar a navegação mais tranquila
 
